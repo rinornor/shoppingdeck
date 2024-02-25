@@ -5,3 +5,20 @@
 [x-cloak] {
     display: none;
 }
+
+.main-menu__item :hover {
+   color: orange;
+}
+
+div.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color: rgb(198, 198, 198);
+    padding: 60px;
+    margin: 5px;
+    font-size: 20px;
+    border-radius: 5%;
+    
+    height: fit-content;
+  }

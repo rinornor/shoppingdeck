@@ -15,11 +15,11 @@
            
         </style>
     </head>
-    <body class="antialiased">
-        <div>
+    <body>
+        <div class="max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
             
             @if (Route::has('login'))
-                <div class="sm:fixed sm:top-0 sm:right-0 p-6 text-right z-10">
+                <div class="sm:fixed sm:top-0 sm:right-0 p-6">
                     @auth
                         <a href="{{ url('/dashboard') }}" class="font-semibold text-gray-600 hover:text-gray-900 focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500">Dashboard</a>
                     @else
@@ -31,7 +31,9 @@
                     @endauth
                 </div>
             @endif
-            <a href="{{route('products.index')}}">Go to Store</a>
+            <div>
+            <a href="{{route('shop.index')}}">Go to Store</a>
+            </div>
         </div>
         
         

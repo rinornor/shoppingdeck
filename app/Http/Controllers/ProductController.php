@@ -32,7 +32,7 @@ class ProductController extends Controller
     public function store(Request $request)
     {
         $request->validate([
-            'image' => 'image|mimes:jpeg,png,jpg,gif|max:2048'
+            'image' => 'image|mimes:jpeg,png,jpg,gif,webp|max:2048'
         ]);
 
 
@@ -99,9 +99,5 @@ class ProductController extends Controller
         return redirect()->back();
     }
 
-    public function thestore()
-    {
-        $products = Product::all();
-        return view('thestore.index', [ 'products' => $products]);
-    }
+    
 }

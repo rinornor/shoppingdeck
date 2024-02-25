@@ -1,13 +1,6 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
-
-## About Project
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
+<img width="929" alt="sc1" src="https://github.com/rinornor/shoppingdeck/assets/79754234/80a3281f-3b2c-41d4-94a1-011db0ca22bb">
+<img width="947" alt="sc2" src="https://github.com/rinornor/shoppingdeck/assets/79754234/026504b2-6a3c-4964-90ee-7af80ab32d5e">
+![sc3](https://github.com/rinornor/shoppingdeck/assets/79754234/aac98773-29ef-45be-a741-6da117a2989f)
+![sc4](https://github.com/rinornor/shoppingdeck/assets/79754234/72708809-be32-4ed7-9bd9-4ea14f8b77d5)
+![sc5](https://github.com/rinornor/shoppingdeck/assets/79754234/f0d8f227-ff43-4b3f-97f9-921814a11681)
+![sc6](https://github.com/rinornor/shoppingdeck/assets/79754234/ce983169-0fb5-4a3f-985a-91455f7e02c8)
